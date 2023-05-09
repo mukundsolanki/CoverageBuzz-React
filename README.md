@@ -1,3 +1,7 @@
+# CoverageBuzz
+
+This News app is a web-based application built using ReactJS, Bootstrap and NewsAPI. It provides an easy-to-use interface for users to browse the latest news from a variety of sources across the world, The app is responsive and can be used on any device, including desktops, tablets, and smartphones. With its clean and intuitive design, the News app offers a convenient way for users to stay informed and up-to-date on the latest news from around the globe.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
